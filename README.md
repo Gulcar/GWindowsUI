@@ -1,6 +1,8 @@
 # GWindowsUI
 Create ui windows in unity!
 
+![screenshot](image.png)
+
 1. Download the GWindowsUI.unitypackage
 2. Open a unity project
 3. Double click on GWindowsUI.unitypackage and import it
